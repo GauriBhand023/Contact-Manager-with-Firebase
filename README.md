@@ -2,7 +2,7 @@
 React project demonstrating CRUD Operations with Firebase.
 
 # Preview Link😁
-https://gauribhand023.github.io/Contact-Manager-with-Firebase/"
+https://gauribhand023.github.io/Contact-Manager-with-Firebase/
 
 
 
